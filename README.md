@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://placehold.co/150x150/000000/FFFFFF?text=SM" alt="Subha Maddela Logo/Avatar" style="border-radius: 50%; width: 150px; height: 150px;"/>
   <h1>Hi there, I'm Subha Maddela! 👋</h1>
-  <p><strong>S DevOps & Cloud Consultant | Architecting Scalable, Secure, and Automated Cloud Solutions</strong></p>
+  <p><strong> DevOps & Cloud Consultant |  Scalable, Secure, and Automated Cloud Solutions</strong></p>
   <p>
     <a href="https://github.com/subhasri2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/subha-m733"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
