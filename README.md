@@ -7,8 +7,11 @@
     <a href="https://www.linkedin.com/in/subha-m733"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:subhasrimaddela01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
-  <a href="https://subhasri2.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages Portfolio">
+ <a href="https://subhasri2.github.io/portfolio/" target="_blank">
+  <img src="https://raw.githubusercontent.com/subhasri2/subhasri2/main/portfolio-icon.png"
+       alt="Portfolio"
+       height="40"/>
+</a>
 </a>
 </div>
 
