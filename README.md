@@ -82,6 +82,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 * **Email:** subhasrimaddela01@gmail.com
 * **LinkedIn:** [linkedin.com/in/subha-m733/](https://www.linkedin.com/in/subha-m733/)
 * **GitHub:** [github.com/subhasri](https://github.com/subhasri2)
+* **Portfolio:** [github.com/subhasri](https://subhasri2.github.io/portfolio/)
 
 
 
