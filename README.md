@@ -8,7 +8,7 @@
     <a href="mailto:subhasrimaddela01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
   <a href="https://subhasri2.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages Portfolio">
 </a>
 </div>
 
