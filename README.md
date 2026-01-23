@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a highly accomplished and results-driven Senior DevOps and Cloud Consultant with over 3 years of hands-on experience in architecting, implementing, and optimizing mission-critical cloud infrastructure. My expertise spans across the leading cloud providers: **AWS, Google Cloud Platform (GCP), and Azure**.
+I am a highly accomplished and results-driven Senior DevOps and Cloud Consultant with over 4 years of hands-on experience in architecting, implementing, and optimizing mission-critical cloud infrastructure. My expertise spans across the leading cloud providers: **AWS, Google Cloud Platform (GCP), and Azure**.
 
 My passion lies in transforming complex operational challenges into streamlined, automated, and highly resilient systems. I thrive on enhancing operational efficiency, ensuring robust scalability, and implementing stringent security measures (including SOC2 compliance) to foster innovation and drive business success. I'm a strategic leader dedicated to building the future of cloud infrastructure.
 
